@@ -1,0 +1,3 @@
+10007, Adham, Economist, 1000
+10008, Moxe, Manager, 5000
+10009, Ali, Manager, 11000
